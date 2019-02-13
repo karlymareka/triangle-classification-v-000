@@ -22,5 +22,5 @@ class Triangle
     end 
   end 
 end
- #if person.class != Person 
-      #raise PartnerError 
+class PartnerError < StandardError
+  end

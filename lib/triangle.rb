@@ -20,6 +20,9 @@ class Triangle
     else 
       return :scalene
     end 
+  end
+  
+  class TriangleError < StandardError
   end 
 end
 class PartnerError < StandardError

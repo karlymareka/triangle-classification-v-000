@@ -25,5 +25,3 @@ class Triangle
   class TriangleError < StandardError
   end 
 end
-class PartnerError < StandardError
-  end

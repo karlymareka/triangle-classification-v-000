@@ -18,3 +18,5 @@ class Triangle
     end 
   end 
 end
+ #if person.class != Person 
+      #raise PartnerError 
